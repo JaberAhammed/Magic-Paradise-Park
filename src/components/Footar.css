@@ -1,0 +1,26 @@
+
+.footer{
+    background-color: blueviolet;
+    color: white;
+    padding-top: 6%; 
+    text-align: right; 
+    background: url('https://c.tenor.com/y18EpdHeSDcAAAAM/highway-driving.gif')no-repeat center/cover;
+
+    height: 400px;
+}
+
+.footer  a{
+    font-size: 17px;
+    margin: 5px;
+    padding: 5px 0px;
+    color: white;
+    text-decoration: none;
+    transition: 500ms; 
+    text-align: right;
+}
+.footer  a:hover{
+  
+    padding: 5px 0px;
+    color:  #4a60dbc2;
+    text-decoration: underline;
+}

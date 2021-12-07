@@ -1,0 +1,102 @@
+[
+    {
+      "key": 1,
+      "img": "https://photo-api.netlify.app/po/1%20.jpg",
+      "title": "Paradise Mega Offer",
+      "desc": "Paradise Mega offer Service Daylong package only 7770tk",
+      "price": 7770,
+      "provider": "MAGIC PARADISE PARK",
+      "rating": 5,
+      "ratingCount": "320",
+      "sellerThumb": "https://photo-api.netlify.app/po/12.jpg"
+    },
+    {
+      "key": 2,
+      "img": "https://photo-api.netlify.app/po/6.jpg",
+      "title": "The Lost World",
+      "desc": "Open now Dragon World package only 550tk",
+      "price": 550,
+      "provider": "MAGIC PARADISE PARK ",
+      "rating": 4.2,
+      "ratingCount": "450",
+      "sellerThumb": "https://photo-api.netlify.app/po/12.jpg"
+    },
+    {
+      "key": 3,
+      "img": "https://photo-api.netlify.app/po/3.jpg",
+      "title": "Grand Paradise restaurant",
+      "desc": "One and only Paradise package in Bangladesh only 240tk",
+      "price":240,
+      "provider": "MAGIC PARADISE PARK",
+      "rating": 4,
+      "ratingCount": "680",
+      "sellerThumb": "https://photo-api.netlify.app/po/12.jpg"
+    },
+    {
+      "key": 4,
+      "img": "https://photo-api.netlify.app/po/4.jpg",
+      "title": "Enter The Magical Relaxation",
+      "desc": "Now Every Friday,Saturday & Holiday you will get 30 % Discount.",
+      "price": 2500,
+      "provider": "MAGIC PARADISE PARK",
+      "rating": 3.5,
+      "ratingCount": "350",
+      "sellerThumb": "https://photo-api.netlify.app/po/12.jpg"
+    },
+    {
+      "key": 5,
+      "img": "https://photo-api.netlify.app/po/5.jpg",
+      "title": "Daylong package",
+      "desc": "Mega Service Daylong package only 3799tk ",
+      "price": 3799,
+      "provider": "MAGIC PARADISE PARK ",
+      "rating": 4.5,
+      "ratingCount": "560",
+      "sellerThumb": "https://photo-api.netlify.app/po/12.jpg"
+    },
+    {
+      "key": 6,
+      "img": "https://photo-api.netlify.app/po/6.jpg",
+      "title": "The Lost World",
+      "desc": "Open now Dragon World package only 550tk",
+      "price": 550,
+      "provider": "MAGIC PARADISE PARK",
+      "rating": 4.0,
+      "ratingCount": "500",
+      "sellerThumb": "https://photo-api.netlify.app/po/12.jpg"
+    },
+    {
+      "key": 7,
+      "img": "https://photo-api.netlify.app/po/8.jpg",
+      "title": "3D Cineplex",
+      "desc": "Discover the 3D  Cineplex   watch movie only 500tk ",
+      "price": 500,
+      "provider": "MAGIC PARADISE PARK",
+      "rating": 3.5,
+      "ratingCount": "500",
+      "sellerThumb": "https://photo-api.netlify.app/po/12.jpg"
+    },
+    {
+      "key": 8,
+      "img": "https://photo-api.netlify.app/po/9.jpg",
+      "title": "Family Package",
+      "desc": "Enjoy the family Mega package Paradise journey only 2760tk",
+      "price":2760,
+      "provider": "MAGIC PARADISE PARK",
+      "rating": 4.5,
+      "ratingCount": "500",
+      "sellerThumb": "https://photo-api.netlify.app/po/12.jpg"
+    },
+    {
+      "key": 9,
+      "img": "https://photo-api.netlify.app/po/7.jpg",
+      "title": "Your newest vacation",
+      "desc": "Newest Vacation and 3D Cineplex package only 1799tk  ",
+      "price": 48.69,
+      "provider": "MAGIC PARADISE PARK",
+      "rating": 4.0,
+      "ratingCount": "500",
+      "sellerThumb": "https://photo-api.netlify.app/po/12.jpg"
+    }
+  ]
+  
