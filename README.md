@@ -1,6 +1,6 @@
 # MAGIC PARADISE PARK
 
-This project was bootstrapped with [MAGIC PARADISE PARK
+Live Link : [MAGIC PARADISE PARK
 ](https://paradise-park.netlify.app/).
 
 ## MAGIC PARADISE PARK
